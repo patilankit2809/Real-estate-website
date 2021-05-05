@@ -1,4 +1,4 @@
-/*<?php
+<?php
   session_start();
   require 'dbconfig/estateconfi.php';
   error_reporting(0);
@@ -59,7 +59,7 @@
                            Dahisar East, Mumbai - Western Suburbs, Maharashtra
                         </address>
                     </div>*/
-?>*/
+?>
 <!DOCTYPE html>
 <html>
 <head>
